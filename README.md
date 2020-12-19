@@ -1,14 +1,47 @@
-<p align="center">
-    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=FFFFFF" alt="website title image"></a>
-    <h2 align="center">discover best courses for the best  learning</h2>
-</p>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="FIRST.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
+
+    <title>project</title>
+  </head>
+  <body>
+
+    <h1>HASHCODE</h1>
+    <h2>discover best courses for the best learning!!</h2>
+    <p>This project is build to make coding knowledge available to every place through an app and a website. This is an online platform to learn different languages from the best hand-picked courses
+    </p>
+    <p>This course provides you with the following Courses:</p>
+    
+
+    <table class="courses">
+      <tr>
+        <td>
+          <a href="https://html.com/">
+            <img id="a" src="https://repository-images.githubusercontent.com/134285701/635de980-586d-11ea-9220-1a3211239c30" alt="Html">
+          </a>
+        </td>
+        <td>
+          <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+            <img id="b"src="https://www.motocms.com/blog/wp-content/uploads/2018/07/css-main-image.jpg" alt="CSS">
+          </a>
+        </td>
+        <td>
+          <a href="https://www.javascript.com/">
+            <img id="c" src="https://content.techgig.com/photo/76507012/5-javascript-project-ideas-for-beginner-programmers.jpg?59551" alt="JavaScript">
+          </a>
+        </td>
+      </tr>
+
+    </table>
 
 
-<p align="center">
-    <img alt="Html" src="https://img.shields.io/badge/html-darkblue?&style=for-the-badge"></a>
-    <img alt="Css" src="https://img.shields.io/badge/css-darkblue?&style=for-the-badge"></a>
-    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-darkblue?&logo=javascript&style=for-the-badge"></a>
-</p>
+  </body>
+</html>
 
 
 ## Chat with us
